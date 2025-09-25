@@ -32,7 +32,8 @@ if __name__ == "__main__":
     # train(args, tra, Val)
 
     # test
-    # test(args, tes, args.path_encoder, args.path_decoder, mean, std)
+    test(args, tes, args.path_encoder, args.path_decoder, mean, std)
+
 
 
 
